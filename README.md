@@ -1,5 +1,5 @@
-# movie-dl
-Automatic movie downloader using Selenium WebDriver and youtube-dl
+# selenium-scraper
+Automatic web scraper using Selenium WebDriver and youtube-dl
 
 #### Notice: This repo is for educational purposes only. I do not condone piracy and other illegal acts. *Use it at your own risk!*
 
